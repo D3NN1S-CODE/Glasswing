@@ -3,9 +3,7 @@ services:
     name: colorcube
     env: node
     plan: free
-    rootDir: .
-    packageManager: yarn
-    buildCommand: yarn install && yarn build
+    buildCommand: yarn build
     startCommand: yarn start
     envVars:
       - key: NODE_ENV
