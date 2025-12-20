@@ -1,0 +1,2 @@
+Primary: https://glasswing-5whj-qevef06xy-dmcakomah-7237s-projects.vercel.app
+Alias:   https://glasswing-5whj.vercel.app
